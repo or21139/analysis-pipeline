@@ -16,6 +16,7 @@ combine original fasta files with their corresponding BLAST output in preparatio
   cat sampleC.fasta  sampleC_BLAST_clean.fasta > sampleC_sequences.fasta
   cat sampleD.fasta  sampleD_BLAST.fasta > sampleD_sequences.fasta
 
+ensure that python is installed on your device and install biopython
 use these files as input for sequence_translate.py to translate into amino acid sequence
 
 use the translated sequences as MSA input using MUSCLE
