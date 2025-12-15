@@ -1,0 +1,8 @@
+#NEXUS
+Begin Taxa;
+ Dimensions NTax=6;
+ TaxLabels Thunnus_tonggol Thunnus_albacares Thunnus_maccoyii Thunnus_thynnus sampleC Auxis_rochei;
+End;
+Begin Trees;
+ Tree tree1=(((((Thunnus_tonggol:0.00000,Thunnus_albacares:0.00000)Inner4:0.00000,Thunnus_maccoyii:0.00000)Inner3:0.00000,Thunnus_thynnus:-0.00000)Inner2:0.80883,sampleC:0.19665)Inner1:0.75701,Auxis_rochei:0.00000)Ingroup:0.00000;
+End;

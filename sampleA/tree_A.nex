@@ -1,0 +1,8 @@
+#NEXUS
+Begin Taxa;
+ Dimensions NTax=6;
+ TaxLabels Eubalaena_japonica Eubalaena_glacialis Eubalaena_australis sampleA Balaena_mysticetus Balaenoptera_musculus;
+End;
+Begin Trees;
+ Tree tree1=((((Eubalaena_japonica:0.00875,(Eubalaena_glacialis:0.00491,Eubalaena_australis:0.00904)Inner2:0.00382)Inner4:0.00079,sampleA:0.09181)Inner3:0.04344,Balaena_mysticetus:0.06995)Inner1:0.26635,Balaenoptera_musculus:0.00000)Ingroup:0.00000;
+End;

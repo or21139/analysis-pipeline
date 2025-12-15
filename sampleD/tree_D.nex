@@ -1,0 +1,8 @@
+#NEXUS
+Begin Taxa;
+ Dimensions NTax=6;
+ TaxLabels sampleD Dermochelys_coriacea Eretmochelys_imbricata Natator_depressus Chelonia_mydas Lepidochelys_kempii;
+End;
+Begin Trees;
+ Tree tree1=(((((sampleD:0.41446,Dermochelys_coriacea:0.47354)Inner1:0.30856,Eretmochelys_imbricata:0.15274)Inner2:0.02495,Natator_depressus:0.14645)Inner3:0.01524,Chelonia_mydas:0.09892)Inner4:0.11486,Lepidochelys_kempii:0.00000)Ingroup:0.00000;
+End;

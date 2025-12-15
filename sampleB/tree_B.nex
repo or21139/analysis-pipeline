@@ -1,0 +1,8 @@
+#NEXUS
+Begin Taxa;
+ Dimensions NTax=6;
+ TaxLabels sampleB Cephalorhynchus_heavisidii Cephalorhynchus_eutropia Delphinapterus_leucas Lagenorhynchus_albirostris Stenella_attenuata;
+End;
+Begin Trees;
+ Tree tree1=((((sampleB:0.19811,(Cephalorhynchus_heavisidii:0.02746,Cephalorhynchus_eutropia:0.01644)Inner1:0.17926)Inner2:0.58416,Delphinapterus_leucas:0.21643)Inner3:0.02141,Lagenorhynchus_albirostris:0.13511)Inner4:0.13848,Stenella_attenuata:0.00000)Ingroup:0.00000;
+End;

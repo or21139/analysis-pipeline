@@ -1,0 +1,10 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Dermochelys coriacea isolate 9790 mitochondrion, partial genome",Dermochelys coriacea,1923,1923,77%,0,94.65,16380,JX454973.1
+"Eretmochelys imbricata isolate E9 mitochondrion, complete genome",Eretmochelys imbricata,1347,1347,83%,0,84.71,16580,PQ276114.1
+"Natator depressus isolate rNatDep1 genome assembly, organelle: mitochondrion",Natator depressus,1336,1336,83%,0,84.53,16559,OZ223967.1
+"Chelonia mydas isolate 28666 mitochondrion, complete genome",Chelonia mydas,1308,1308,83%,0,84.08,16435,JX454976.1
+"Lepidochelys kempii isolate 27 mitochondrion, complete genome",Lepidochelys kempii,1256,1256,77%,0,84.78,16483,MN136056.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,

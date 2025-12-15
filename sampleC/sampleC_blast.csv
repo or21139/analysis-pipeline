@@ -1,0 +1,10 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+"Thunnus thynnus mitochondrion, complete genome",Thunnus thynnus,571,1103,57%,1.00E-157,89.17,16527,NC_014052.1
+"Thunnus maccoyii genome assembly, organelle: mitochondrion",Thunnus maccoyii,564,1085,57%,2.00E-155,88.89,16525,OU343215.1
+"Thunnus tonggol cytochrome c oxidase subunit I gene, complete cds; mitochondrial",Thunnus tonggol,555,929,52%,1.00E-152,88.41,1551,GU799568.1
+"Thunnus albacares mitochondrion, complete genome",Thunnus albacares,555,1065,57%,1.00E-152,88.41,16528,KM588080.1
+"Auxis rochei mitochondrion, complete genome",Auxis rochei,431,624,38%,2.00E-115,82.83,16501,NC_005313.1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"		",,,,,,,,
